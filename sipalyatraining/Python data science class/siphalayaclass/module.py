@@ -6,7 +6,7 @@ a=datetime.now()
 print(a)
 
 from math import *
-a=2.639
+a=2.439
 print(ceil(a)) #upward nearest value
 print(floor(a)) #downward to nearest value
 print(round(a,2)) #roundoff
